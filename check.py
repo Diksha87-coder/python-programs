@@ -6,7 +6,7 @@
 #  print("not leap year")
 
 
-#POSITIVE OR NEGATIVEL
+#POSITIVE OR NEGATIVE
 # n=int(input())
 # if n1>0:
 #     print("n is positive")
